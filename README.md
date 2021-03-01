@@ -1,0 +1,3 @@
+# nodeexpress-typescript-starter
+
+just as the name says...
